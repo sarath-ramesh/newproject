@@ -1,0 +1,65 @@
+.head {
+    background-color: rgb(121, 115, 115);
+}
+
+.head h1 {
+    color: white;
+}
+
+.icons {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column;
+}
+
+.inputs input {
+    margin-bottom: 2%;
+}
+
+
+
+.para {
+    display: flex;
+    align-items: center;
+    text-align: justify;
+}
+
+p {
+    /* color: white; */
+    font-size: large;
+} 
+
+.content {
+    padding: 2%;
+    border-radius: 25px;
+    box-shadow: 1px 1px 5px;
+    /* background-color: rgb(195, 204, 248); */
+}
+
+.footer {
+    background-color: rgb(121, 115, 115);
+}
+
+.footertext {
+    display: flex;
+    align-items: center;
+}
+span{
+    cursor: pointer;
+}
+.dark{
+    background-color: rgb(247, 39, 39);
+    color: white;
+    box-shadow: 1px 1px 5px;
+}
+.normal{
+    background-color: rgb(4, 255, 88);
+    color: black;
+    
+
+
+}
